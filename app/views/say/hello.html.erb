@@ -1,0 +1,11 @@
+<h1>Say#hello</h1>
+<p>Find me in app/views/say/hello.html.erb</p>
+<%= 4.hours.from_now%>
+<%= link_to "goodbye", say_goodbye_path %>
+
+<br />
+<ul>
+<% @files.each do |f| %>
+	<li><%= f%></li>
+<% end %>
+</ul>

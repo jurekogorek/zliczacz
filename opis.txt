@@ -1,0 +1,26 @@
+wydatek:
+  kwota
+  kategoria
+  data - domyslnie dzisiejsza
+  na kogo - ja, bulka, oboje, inni
+  
+ 
+ kategoria
+  samochod
+    paliwo
+	olej
+	przeglad
+	serwis
+	plyny
+	ubezpieczenie
+	
+  dom
+    czynsz
+	mieszkanie
+	upc
+	prad
+	
+  zywnosc
+    pieczywo
+	 
+	 
